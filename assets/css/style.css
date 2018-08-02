@@ -135,3 +135,15 @@ h4 {
 	color: #404040;
 	padding-top: 100px;
 }
+
+ul {
+	list-style: none;
+}
+
+li {
+	color: black;
+}
+
+p {
+	color: #444;
+}
